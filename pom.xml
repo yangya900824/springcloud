@@ -56,5 +56,6 @@
 		<module>boot_service_zuul</module>
 		<module>boot_config_client</module>
 		<module>boot_gateway</module>
+		<module>boot-apollo</module>
 	</modules>
 </project>
